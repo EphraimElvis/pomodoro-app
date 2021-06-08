@@ -1,0 +1,100 @@
+.navbar-width {
+  width: 100%;
+  border-bottom: 1px solid #229954;
+}
+
+.tab-content {
+}
+
+.container {
+  color: #fff;
+}
+
+.col-width {
+  flex-grow: 0.4 !important;
+  padding: 10px;
+}
+
+.PodomorTimer {
+  font-size: 120px;
+  padding: 20px 20px 0;
+  text-align: center;
+}
+
+.col-width .nav {
+  justify-content: center;
+}
+
+button.btn-primary {
+  padding: 9px 70px;
+  font-size: 1.5rem;
+  background-color: white;
+  color: #27ae60;
+  font-weight: bolder;
+  border: none !important;
+}
+
+.pomodoro-container {
+  padding: 20px 0px;
+  background-color: #52be80;
+  border-radius: 5px;
+  color: white;
+}
+
+.task-container {
+}
+
+.task-underline {
+  border-bottom: 1px solid #fff;
+}
+
+.col-btn {
+  flex-grow: 0 !important;
+}
+
+body {
+  background-color: #27ae60 !important;
+}
+
+a {
+  color: #f9f9fa !important;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  /* color: #e7f807 !important; */
+  background-color: #145a32 !important;
+  font-weight: 300;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #00c17a !important;
+  border-color: #28a745 !important;
+}
+
+button.btn.btn-secondary {
+  width: 100%;
+  padding: 12px;
+  font-size: 1.1rem;
+  background-color: #145a32;
+  border: none !important;
+}
+
+.navbar-light .navbar-brand {
+  color: rgb(255 255 255) !important;
+  font-weight: bold;
+}
+
+#dropdown-basic::after {
+  display: none;
+}
+
+.dropdown a {
+  color: #545b62 !important;
+}
+
+button#dropdown-basic {
+  background: none;
+  padding: 0;
+}
